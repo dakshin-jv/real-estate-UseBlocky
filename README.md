@@ -1,6 +1,6 @@
 # Real Estate Chatbot API
 
-A FastAPI-based chatbot that understands natural language queries and searches apartment listings using Ollama's gpt-oss:20b model with structured output.
+A FastAPI-based chatbot that understands natural language queries and searches apartment listings.
 
 ## Setup
 
